@@ -15,4 +15,4 @@ The command is NVDA+Control+n.
 ### Version 1.0
 * Initial release
 
-[1]: https://github.com/ruifontes/addonsHelp/releases/download/2.1.0/addonsHelp-2.1.nvda-addon
+[1]: https://github.com/ruifontes/networkStrenght/releases/download/1.0/networkStrenght-1.0.nvda-addon
